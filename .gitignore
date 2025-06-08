@@ -1,0 +1,33 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Cache files
+.cache/
+__pycache__/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# Build directories
+build/
+dist/
+
+# Environment files
+.env
+.env.local 
