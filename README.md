@@ -198,4 +198,8 @@ source ~/.bashrc
 
 ## Licentie
 
-MIT License 
+MIT License
+
+## Bijdragen
+
+Bijdragen zijn welkom! Voel je vrij om een pull request te maken of een issue te openen.
